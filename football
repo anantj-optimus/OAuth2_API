@@ -1,0 +1,5 @@
+{
+  "status": 401,
+  "source": "https://staging-api.moj.io/v2/mojios/d22e7ce7-b8cc-4192-8660-e741f4dc17bd/",
+  "message": "Authorization has been denied for this request."
+}

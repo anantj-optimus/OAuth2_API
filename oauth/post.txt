@@ -1,0 +1,7 @@
+{
+  "Description": "abcwerf",
+  "Name": "string",
+  "RedirectUris": [
+    "string"
+  ]
+}
